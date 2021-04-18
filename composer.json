@@ -1,0 +1,21 @@
+{
+    "name": "prabir/contact",
+    "description": "This contact form",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prabir chowdhury",
+            "email": "prabirchy439@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+
+            "Prabir\\Contact\\": "src/"
+        }
+    }
+}
+
