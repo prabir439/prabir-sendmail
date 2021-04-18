@@ -16,6 +16,13 @@
 
             "Prabir\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Prabir\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
 
